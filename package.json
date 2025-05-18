@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://sanals.github.io/amz-affiliate-link",
+  "homepage": "https://syrez.co.in",
   "scripts": {
     "dev": "vite",
     "dev:no-hmr": "vite --force --no-clearScreen",

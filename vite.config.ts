@@ -91,7 +91,7 @@ export default defineConfig({
       }
     })
   ],
-  base: '/amz-affiliate-link/', // Repository name for GitHub Pages
+  base: '/', // Base path for custom domain
   server: {
     host: '127.0.0.1',  // Use IP instead of localhost
     port: 3000,
