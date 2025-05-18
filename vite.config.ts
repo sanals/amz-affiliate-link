@@ -91,7 +91,7 @@ export default defineConfig({
       }
     })
   ],
-  base: '/', // This will be the base path for your deployment
+  base: '/amz-affiliate-link/', // Repository name for GitHub Pages
   server: {
     host: '127.0.0.1',  // Use IP instead of localhost
     port: 3000,
